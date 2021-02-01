@@ -1,0 +1,1 @@
+print("Im","Cosmo","Im","Not","'Cool'")
